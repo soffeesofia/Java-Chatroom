@@ -1,0 +1,24 @@
+<groups>
+    <group>
+        <name>Vinegar</name>
+        <members>
+            <username>Gregg</username>
+            <username>test</username>
+        </members>
+    </group>
+    <group>
+        <name>TeamName</name>
+        <members>
+            <username>Gregg</username>
+            <username>Marshall</username>
+        </members>
+    </group>
+    <group>
+        <name>Clockwork</name>
+        <members>
+            <username>Gregg</username>
+            <username>Marshall</username>
+            <username>test</username>
+        </members>
+    </group>
+</groups>

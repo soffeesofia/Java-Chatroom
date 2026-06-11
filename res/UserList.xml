@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<userlist>
+<user>
+    <username>test</username>
+    <pswd>test</pswd>
+    <isBanned>false</isBanned>
+</user>
+    <user>
+        <username>Gregg</username>
+        <pswd>123</pswd>
+        <isBanned>false</isBanned>
+    </user>
+    <user>
+        <username>Marshall</username>
+        <pswd>123</pswd>
+        <isBanned>false</isBanned>
+    </user>
+    <user>
+        <username>Popeye</username>
+        <pswd>123</pswd>
+        <isBanned>false</isBanned>
+    </user>
+</userlist>
